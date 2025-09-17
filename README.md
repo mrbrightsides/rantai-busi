@@ -64,7 +64,7 @@ Prasyarat
 Langkah Instalasi
 1. Clone repository ini:
 ```bash
-git clone https://github.com/your-org/bi-module.git
+git clone https://github.com/mrbrightsides/rantai-busi.git
 cd bi-module
 ```
 
