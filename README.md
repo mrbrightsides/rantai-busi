@@ -29,7 +29,7 @@ Modul BI menyediakan dashboard dinamis dan alat pelaporan lengkap yang memungkin
 - API siap integrasi untuk modul turunannya
 
 ```mermaid
-graph TD
+graph RL
     A["Modul Business Intelligence (BI)"] --> B["Data Source Connection"]
     A --> C["Dashboard Interaktif"]
     A --> D["Visualisasi Data"]
@@ -84,6 +84,8 @@ Atau jalankan dengan Docker:
 docker-compose up
 ```
 
+---
+
 ## Penggunaan
 
 - Akses dashboard BI pada https://rantai-busi.streamlit.app/
@@ -94,7 +96,7 @@ docker-compose up
 
 ---
 
-##Teknologi
+## Teknologi
 
 - Frontend: React, Chart.js
 
@@ -120,6 +122,8 @@ Kontribusi sangat kami sambut! Silakan ikuti langkah berikut:
 - Buat pull request di repository ini
 
 - Harap pastikan kode teruji dan mengikuti style yang sudah ada.
+
+---
 
 ## Lisensi
 
