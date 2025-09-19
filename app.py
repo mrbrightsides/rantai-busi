@@ -18,22 +18,27 @@ with st.sidebar:
     
     ---
     #### 🔮 Vision Statement
+    
     Menjadi solusi BI terdepan yang memberikan wawasan bisnis realtime, praktis, dan dapat diakses oleh semua level organisasi, mendorong keputusan cerdas yang memacu pertumbuhan berkelanjutan.
 
     ---
     ### 🌐 RANTAI Pipeline
-    Ketiga modul—EDA, BI, dan Predictive Modeling—bekerja bersama sebagai bagian dari siklus analitik data yang saling terintegrasi, memastikan alur data dan insight yang mulus dari awal hingga akhir.
+    
+    Keempat modul—EDA, BI, Predictive Modeling, dan ETHIKA—bekerja bersama sebagai bagian dari siklus analitik data yang saling terintegrasi, memastikan alur data dan insight yang mulus dari awal hingga akhir dengan keseimbangan etika dan fairness sebagai pijakan utama.
     
     - Exploratory Data Analysis (EDA) merupakan langkah awal yang mempersiapkan dan memvalidasi data mentah. Dengan analisis statistik dan visualisasi eksploratif, EDA mengidentifikasi pola, anomali, dan kualitas data yang akan menjadi dasar untuk tahap selanjutnya.
     
     - Business Intelligence (BI) menerima data yang sudah bersih dan terstruktur dari EDA untuk membangun dashboard interaktif dan laporan. BI fokus menyediakan visualisasi realtime yang mudah dipahami dan mendukung pengambilan keputusan bisnis secara cepat dan terukur.
     
     - Predictive Modeling (PM) menggunakan data yang sudah tervalidasi dan insight dari BI untuk membuat model prediktif. Output model ini dapat dikembalikan ke dashboard BI untuk memberikan prediksi dan rekomendasi, melengkapi insight historis dengan analisis masa depan.
+
+    - Etika, Bias, Hukum, dan Agama hadir sebagai modul check & balance dalam pipeline ini, mendeteksi ketidakseimbangan dataset dan mengevaluasi fairness model. ETHIKA tidak hanya memberi peringatan bias, tetapi juga mendorong refleksi etis dan tanggung jawab sosial dalam setiap tahapan pengembangan model, memastikan hasil analitik layak secara moral dan sosial untuk digunakan.
     
-    > 💡 Pipeline ini membentuk siklus data yang berkelanjutan: dari pemahaman awal (EDA), ke reporting yang actionable (BI), hingga keputusan proaktif berbasis prediksi (PM), mendukung keputusan bisnis yang lebih cerdas dan responsif.
+    > 💡 Pipeline ini membentuk siklus data yang berkelanjutan: dari pemahaman awal (EDA), ke reporting yang actionable (BI), hingga keputusan proaktif berbasis prediksi (PM), serta keseimbangan etika dan fairness (ETHIKA), mendukung keputusan bisnis yang lebih cerdas, responsif, dan bertanggung jawab.
     
     ---
     ### 🧩 STC Ecosystem
+    
     1. [STC Analytics](https://stc-analytics.streamlit.app/)
     2. [STC GasVision](https://stc-gasvision.streamlit.app/)
     3. [STC Converter](https://stc-converter.streamlit.app/)
@@ -45,6 +50,7 @@ with st.sidebar:
 
     ---
     ### ☂ RANTAI Communities
+    
     1. [Learn3](https://learn3.streamlit.app/)
     2. [BlockPedia](https://blockpedia.streamlit.app/)
     3. [SmartFaith](https://smartfaith.streamlit.app/)
@@ -56,6 +62,7 @@ with st.sidebar:
     
     ---
     #### 🙌 Dukungan & kontributor
+    
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/rantai-busi)
     - Built with 💙 by [Khudri](https://s.id/khudri)
     - Dukung pengembangan proyek ini melalui: 
