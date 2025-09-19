@@ -52,6 +52,7 @@ with st.sidebar:
     5. [Exploratory Data Analysis](https://rantai-exploda.streamlit.app/)
     6. [Business Intelligence](https://rantai-busi.streamlit.app/)
     7. [Predictive Modelling](https://rantai-model-predi.streamlit.app/)
+    8. [Ethic, Bias, Law, & Religion](https://rantai-ethika.streamlit.app/)
     
     ---
     #### 🙌 Dukungan & kontributor
@@ -76,7 +77,7 @@ def embed_iframe(src, hide_top_px=72, height=800):
     """, height=height)
 
 # URL Ohara
-iframe_url = "https://ohara.ai/mini-apps/25307da3-8374-43e8-8615-e05d1e7c900a"
+iframe_url = "https://ohara.ai/mini-apps/miniapp_cmfpb44hq01pe8hnx6onpfy4i"
 
 # Panggil fungsi
 embed_iframe(iframe_url, hide_top_px=110, height=800)
