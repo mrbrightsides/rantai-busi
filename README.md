@@ -29,7 +29,7 @@ Modul BI menyediakan dashboard dinamis dan alat pelaporan lengkap yang memungkin
 - API siap integrasi untuk modul turunannya
 
 ```mermaid
-graph RL
+graph LR
     A["Modul Business Intelligence (BI)"] --> B["Data Source Connection"]
     A --> C["Dashboard Interaktif"]
     A --> D["Visualisasi Data"]
